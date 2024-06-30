@@ -158,7 +158,7 @@ pcall(function()
 	end	
 end)
 
-local deadlyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/deadly%20GUI.lua"))();
+local deadlyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/scripts1001/phantomforces/main/deadlygui.lua"))();
 local Window = deadlyLib:CreateWindow(Enum.KeyCode.RightShift, "deadly");
 local UIToggle = Window:CreateToggleButton()
 
