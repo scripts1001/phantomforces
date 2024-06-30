@@ -1,5 +1,5 @@
 if game.GameId == 113491250 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/HyperEscapePhantomForces.lua", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/scripts1001/phantomforces/main/deadly2.lua", true))()
 else
 	local HyperEscape = { -- fuck Off I Like It, Even Tho It Is Anoying.
 		GUI = {
